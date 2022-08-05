@@ -2,16 +2,6 @@
 
 ## About Me
 
-### Links
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://linkedin.com/in/mohamadreza-firooz/"
-    
-[[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/mohamadrezafz"
 
 .NET Developer with +7 years of experience developing web using ASP.NET Core, C#.NET and MS SQL. Expertise in requirements analysis, design, development, testing, maintenance, enhancement, and production support of business applications. Certified Web Development Professional with a deep passion for technology, extensive technological expertise, and well-developed teamwork abilities.
 Expert in all phases of software development life cycle (SDLC) - Project Analysis, Requirements, Design, Development, Testing, and Deployment and Documentation. Experience with all phases of software Development Life Cycle in the Agile (SCRUM) methodology.
